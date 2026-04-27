@@ -1,0 +1,22 @@
+# macOS
+.DS_Store
+
+# IDE
+.idea/
+.vscode/
+*.iml
+
+# Maven
+target/
+.mvn/wrapper/maven-wrapper.jar
+
+# Gradle (just in case)
+.gradle/
+build/
+
+# sbx diagnostics
+sbx-diagnostics-*.zip
+
+# Python
+__pycache__/
+*.pyc
