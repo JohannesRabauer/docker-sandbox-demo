@@ -1,0 +1,5 @@
+spring:
+  application:
+    name: racing-telemetry
+vaadin:
+  launch-browser: true
