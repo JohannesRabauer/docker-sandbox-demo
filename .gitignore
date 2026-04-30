@@ -20,3 +20,4 @@ sbx-diagnostics-*.zip
 # Python
 __pycache__/
 *.pyc
+/fun-demo/racing-telemetry/src/main/frontend/generated
